@@ -1,0 +1,2 @@
+email,password,role,first_name,last_name,roll_no,dob,mobile,address,join_date
+admin@admin.com,scrypt:32768:8:1$s9Gbd1QEYBz1dFK2$d067bf62d84f633594be4c51ea904ff3432ee4b4e15f1c342c76c2478dbe02470bc52990ad57d837e8afb2e38659e194ddfa77d464e99a27b4447c505b27ebf6,admin,Admin,User,ADMIN001,01-01-2000,0,Admin Office,23-01-2025

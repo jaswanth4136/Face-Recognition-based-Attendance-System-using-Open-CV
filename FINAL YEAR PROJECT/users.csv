@@ -1,0 +1,5 @@
+email,password,role,first_name,last_name,roll_no,dob,mobile,address,join_date
+admin@admin.com,pbkdf2:sha256:260000$SCWjybThAWFYq90l$91613243baa673ed62162fabf79b18c363a4c7baababa9db0c2c84d17371d3ab,admin,Admin,User,ADMIN001,01-01-2000,0,Admin Office,26-01-2025
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
